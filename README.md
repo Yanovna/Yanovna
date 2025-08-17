@@ -1,50 +1,29 @@
 # 🩺 Доктор Анастасия Иваничева 
-### Анестезиолог-реаниматолог | Начинающий Python-разработчик
+### Анестезиолог-реаниматолог → Python-разработчик в медицине
 
-[![Telegram](https://img.shields.io/badge/Telegram-Контакты-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/lakeshta)
-[![Школа 21](https://img.shields.io/badge/Школа_21-Студент-01D277?style=for-the-badge)](https://21-school.ru)
-
-</div>
+[![Telegram](https://img.shields.io/badge/-Контакты-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lakeshta)
+[![Школа 21](https://img.shields.io/badge/-Школа_21-01D277?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWhlYXJ0Ij48cGF0aCBkPSJNMTkgMTRjMS40OS0xLjQ2IDUtMy40MyA1LjgyLTYuODZhMi44NyAyLjg3IDAgMDAtLjQxLTEuNzUgMi44NCAyLjg0IDAgMDAtMS44NC0xIDIuODMgMi44MyAwIDAwLTEuODQuOTkgMTAgMTAgMCAwMC0yLjY5IDQuNTkiLz48cGF0aCBkPSJNMTIgMTJzLTEuMDktMS4wNC0yLjgyLTEuMDRhMi44NCAyLjg0IDAgMDAtMS44NCAxIDIuODQgMi44NCAwIDAwLS40MSAxLjc1QzcuMTEgMTAuNTcgMTEuNTEgMTIuNTQgMTMgMTRjMS40OS0xLjQ2IDUuODktMy40MyA2LjA3LTYuODZhMi44NCAyLjg0IDAgMDAtLjQxLTEuNzUgMi44MyAyLjgzIDAgMDAtMS44NC0xIi8+PC9zdmc+)](https://21-school.ru)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
 
-## 🧑⚕️ Медицинский профиль
-- **Специализация**: Анестезиология-реаниматология
-- **Опыт работы**: 5 лет в реанимации
+## 🌟 Обо мне
+Медицинский специалист с 5-летним опытом в реанимации, осваивающий IT-навыки для создания решений на стыке медицины и технологий. Уверена, что современная медицина нуждается в качественном софте, и работаю в этом направлении.
 
-## 💻 Технические навыки
-# Основной стек:
-medical_stack = {
-    "Языки": ["Python", "C"],
-    "Фреймворки": ["FastAPI", "Streamlit"],,
+---
+
+## 🛠 Технический стек
+
+```python
+medical_tech_stack = {
+    "Языки программирования": ["Python", "C"],
+    "Веб-разработка": ["FastAPI", "HTML/CSS"],
+    "Data Science": ["Pandas", "NumPy", "Matplotlib"],
     "Базы данных": ["SQLite", "PostgreSQL"],
-    "Облачные платформы": ["Docker", "Streamlit Cloud"]
+    "Деплой": ["Docker", "Streamlit Cloud"],
+    "Инструменты": ["Git", "Jupyter Notebook", "VS Code"]
 }
 
-🎓 Образование в IT
-Школа 21 (Сбер)
-
-🏆 Закончила базовый интенсив 
-
-📚 Основное обучение (в процессе)
-
-Самообразование:
-
-Курсы:
-- "Поколение Python": курс для начинающих (Stepik)
-- "Поколение Python": курс для продвинутых (Stepik)
-- Добрый, добрый C/C++ с Сергеем Балакиревым (Stepik)
-- Основы работы с Git и GitHub (Stepik)
-- По следам FastAPI (Stepik)
-- 30 Days of Streamlit
-
-📈 GitHub статистика
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=AnastasiaIvanicheva&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaIvanicheva&layout=compact&theme=radical
-
-</div>
 
 
 
