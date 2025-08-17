@@ -2,7 +2,7 @@
 ### Анестезиолог-реаниматолог → Python-разработчик в медицине
 
 [![Telegram](https://img.shields.io/badge/-Контакты-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lakeshta)
-[![Школа 21](https://img.shields.io/badge/Школа_21-Студент-01D277?style=for-the-badge)](https://21-school.ru)
+[![Школа 21](https://img.shields.io/badge/Школа_21-01D277?style=for-the-badge)](https://21-school.ru)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanovna)
 
 ---
