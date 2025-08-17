@@ -38,5 +38,13 @@ medical_stack = {
 - По следам FastAPI (Stepik)
 - 30 Days of Streamlit
 
+📈 GitHub статистика
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=AnastasiaIvanicheva&show_icons=true&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaIvanicheva&layout=compact&theme=radical
+
+</div>
+
 
 
