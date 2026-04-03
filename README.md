@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/-Контакты-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lakeshta)
 [![Школа 21](https://img.shields.io/badge/Школа_21-01D277?style=for-the-badge)](https://21-school.ru)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yanovna)
-[![VK] (https://vk.com/id112251084)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id112251084)
 ---
 
 ## 🌟 Обо мне
