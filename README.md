@@ -1,4 +1,4 @@
-# 🩺 Доктор Анастасия Иваничева 
+# Анастасия Иваничева 
 ### Анестезиолог-реаниматолог | Преподаватель высшей школы | Python-разработчик
 
 [![Telegram](https://img.shields.io/badge/-Контакты-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lakeshta)
